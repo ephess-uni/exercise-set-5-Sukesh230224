@@ -15,6 +15,7 @@ except ImportError:
 
 
 if __name__ == "__main__":
+    import os
 
     # Use these predefined input / output files
     root_dir = get_repository_root()
